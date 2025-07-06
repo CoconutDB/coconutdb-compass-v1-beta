@@ -5,8 +5,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "coconutdb",
+    "CoconutDB",
+    "NoSQL",
+    "compass",
+    "Compass"
+  ],
+  "author": "jehankandy",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoconutDB/CoconutDB.git"
+  },
   "license": "ISC",
   "description": "",
   "dependencies": {
