@@ -46,3 +46,22 @@ Install using this as NPM Package
 ```
 
 2. if you not add this line you cannot get data from CoconutDB compass
+
+## History (Versioning)
+
+|------|-------|-------|
+| Release | Features | Date |
+
+
+
+## 📣 Community & Feedback
+
+This Beta exists because of bold developers like you — your feedback will decide where CoconutDB Compass goes next.
+
+### To contribute:
+
+- ⭐️ Star the repo.
+
+- 🐛 Report bugs and ideas through GitHub Issues.
+
+- 🔗 Fork & PR for new features.
