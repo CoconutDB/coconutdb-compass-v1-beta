@@ -45,3 +45,4 @@ Install using this as NPM Package
 
 ```
 
+2. if you not add this line you cannot get data from CoconutDB compass
