@@ -49,8 +49,8 @@ Install using this as NPM Package
 
 ## History (Versioning)
 
-|------|-------|-------|
 | Release | Features | Date |
+| ------- | -------- | ---- |
 
 
 
