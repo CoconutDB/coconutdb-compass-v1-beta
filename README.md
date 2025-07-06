@@ -51,6 +51,7 @@ Install using this as NPM Package
 
 | Release | Features | Date |
 | ------- | -------- | ---- |
+| v1.0.0-beta  | Just added npm not for production just testing | 6 July 2025 |
 
 
 
