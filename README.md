@@ -24,12 +24,24 @@ CoconutDB is built for creators hunting their hardest dreams — lightweight eno
 
 - ✅ Visualize documents, collections, and database stats.
 
-- ✅ CRUD operations directly from the UI.
+This v1 Beta is your chance to shape Compass as it evolves — lightweight today, powerful tomorrow.
 
-- ✅ Query builder for quick data lookups.
+## 📦 Installation
 
-- ✅ Connection manager for multiple CoconutDB instances.
+```bash
 
-- ✅ Basic user access and connection logs.
+    npm i coconutdb-compass
 
-- ✅ Export/import JSON snapshots.
+```
+
+Install using this as NPM Package
+
+1. copy and past following code line in your Backend Server Entry file (index.js or server.js) and don't update or Change anything in this line
+
+
+```js
+
+    const MainRoute = require('coconutdb-compass')
+
+```
+
