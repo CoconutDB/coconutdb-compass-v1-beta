@@ -15,3 +15,21 @@
 
 CoconutDB is built for creators hunting their hardest dreams — lightweight enough for prototypes, robust enough for production.
 
+## 🧭 What is CoconutDB Compass?
+
+- CoconutDB Compass v1 Beta is the official companion tool for managing and visualizing your CoconutDB data and configuration.
+- Think of it as your command center to explore, monitor, and maintain CoconutDB instances with ease.
+
+### Compass Core Features (v1 Beta):
+
+- ✅ Visualize documents, collections, and database stats.
+
+- ✅ CRUD operations directly from the UI.
+
+- ✅ Query builder for quick data lookups.
+
+- ✅ Connection manager for multiple CoconutDB instances.
+
+- ✅ Basic user access and connection logs.
+
+- ✅ Export/import JSON snapshots.
